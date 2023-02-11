@@ -12,7 +12,40 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.Container{
+  background-color: #c4dde4;
+  margin: 50px auto;
+  padding: 50px;
+  border-radius: 25px;
+  width: 900px;
+}
+.TodoTable{
+  
+  color: aliceblue;
+  margin: auto;
+  padding-top: 30px ;
+ 
+  width: 700px;
+ 
+}
+.TodoTableData{
+  
+  color: black;
+  margin: auto;
+  /* padding-top: 30px ;
+  padding-right: 30px; */
+  width: 700px;
+ 
+}
+td{
+  padding: 20px 60px;
+  text-align: left;
+}
+th{
+  padding: 20px 60px;
+  text-align: left;
+  background-color: #282c34;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
