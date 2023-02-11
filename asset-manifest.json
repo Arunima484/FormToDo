@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FormToDo/static/css/main.49f917dd.css",
+    "main.js": "/FormToDo/static/js/main.c54b053d.js",
+    "static/js/787.6ffc88a8.chunk.js": "/FormToDo/static/js/787.6ffc88a8.chunk.js",
+    "index.html": "/FormToDo/index.html",
+    "main.49f917dd.css.map": "/FormToDo/static/css/main.49f917dd.css.map",
+    "main.c54b053d.js.map": "/FormToDo/static/js/main.c54b053d.js.map",
+    "787.6ffc88a8.chunk.js.map": "/FormToDo/static/js/787.6ffc88a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f917dd.css",
+    "static/js/main.c54b053d.js"
+  ]
+}
